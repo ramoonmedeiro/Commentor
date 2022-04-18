@@ -5,7 +5,7 @@ Only takes the comments in the URLs. Only this =)
 ```
 $ git clone https://github.com/ramoonmedeiro/Commentor.git
 $ cd Commentor
-$ pip3 intall -m requirements.txt
+$ pip3 install -r requirements.txt
 ```
 # Usage
 
